@@ -1,0 +1,90 @@
+body{
+	font-family: Verdana,arial,sana-serif;
+	font-size: small;
+	margin: 0;
+	padding: 0;
+	background-size:  cover;
+	background-image: url("images/dark.png");
+	}
+	
+
+#container{
+	width: 1090px;
+	margin: auto;
+	border-right: 0px solid #000;
+	border-left: 0px solid #000;
+	padding: 0;
+	
+	}
+	
+.icon1{
+	float: left;
+	margin-left: 30px;
+	margin-top:250px;
+	 
+}		
+
+.logo1{
+	margin-left: 10px;
+	margin-top: 10px;
+	float: left;
+	width: 128px;
+	height: 128px;
+	background-image: url("csi logo/CSI_img_burned.png");
+ }	
+ .logo2{
+	margin-right: 10px;
+	margin-top: 10px;
+	float: right;
+	width: 180px;
+	height: 128px;
+	background-image: url("csi logo/crcelo.png");
+ }
+#content{
+	margin: 0;
+	padding: 20px 10px 10px 20px;
+	width: 880px;
+	float: right;
+	color: #ffffff;
+
+	}
+#navigation{
+	margin-top: 30px;
+	margin-right: 10px;
+	margin-left:10px;
+	padding: 20px 20px 50px 20px;
+	float: left;
+	width: 190px;
+	
+	}
+#footer{
+	clear: both;
+	padding: 10px 20px 15px 10px;
+	margin: 0;
+	color: #FFB870;
+	font-size: 95%;
+	font-weight:bold;
+	width: 1090px;
+	background-image: url("images/dark.png");
+	}
+h2{  
+	margin: 0;
+	padding: 0px 60px 10px 20px;
+	font-family:  Charcoal, sans-serif;
+	FONT-SIZE: 200%;
+	font-weight: bold;
+	border-bottom: 1px dotted #FFE766;
+	}
+h3{
+   margin: 0px 90px 50px 0px;
+   font-size: 200%;
+   font-weight: bold;
+   color: #C14E4E;
+   border-bottom: 1px dotted #FFE766;
+  }
+  h4{
+   margin: 0px 90px 50px -25px;
+   font-size: 200%;
+   font-weight: bold;
+   color: #C14E4E;
+  }
